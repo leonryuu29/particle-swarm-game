@@ -5,6 +5,7 @@
 [![Phaser 3](https://img.shields.io/badge/Phaser-3.55.2-8A2BE2)](https://phaser.io/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES_Modules-F7DF1E?logo=javascript&logoColor=black)](#play-locally)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![CI](https://github.com/leonryuu29/particle-swarm-game/actions/workflows/ci.yml/badge.svg)](https://github.com/leonryuu29/particle-swarm-game/actions/workflows/ci.yml)
 
 <p align="center">
   <img src="docs/screenshots/gameplay.png" alt="Particle Swarm gameplay" width="88%">
@@ -14,7 +15,7 @@
 
 ## Why it is fun to inspect
 
-- **Emergent movement:** hundreds of particles react to a small number of force fields.
+- **Emergent movement:** 2,145 particles react to a small number of force fields.
 - **Indirect control:** left click creates an attractor; right click creates a repulsor or removes one.
 - **Resource loop:** collect food, avoid hazards, and use shield/reinforcement power-ups.
 - **Scene separation:** menu, simulation, and UI run as independent Phaser scenes.
